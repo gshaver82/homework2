@@ -6,8 +6,11 @@ body {
 
 main{
   background-color: white;
+  /* margin: 30px; */
 }
 
+img.center-block {
+}
 
 section{
   
